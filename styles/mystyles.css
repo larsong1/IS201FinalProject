@@ -35,3 +35,9 @@ h1{
     margin-right: 0 !important;
     margin-left: auto !important;
 }
+
+.center-btn{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
