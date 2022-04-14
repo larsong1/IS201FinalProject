@@ -37,3 +37,11 @@
     justify-content: center;
     margin-top: 20px;
 }
+
+.secondary-nav-styles{
+    color: #6c8a5b
+}
+
+.secondary-nav-styles:hover{
+    color: #9ac382;
+}
