@@ -1,7 +1,59 @@
-body{
-    background-color: beige;
+html{
+    background-image: url("../images/star_wars_wallpaper.jpeg");
 }
 
-.headCenter{
-    font-family: 'Times New Roman', Times, serif;
+body{
+    color: black;
+}
+
+.page-header{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+}
+
+a{
+    color:#fdfdfd;
+    font-weight: 700;
+}
+
+a:hover{
+    color: #6c8a5b;
+}
+
+.nav-menu{
+    text-align: center;
+    color: #6c8a5b;
+    font-size: 20px;
+    background-color: #2f170fe6;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 40%;
+    margin-right: 40%;
+}
+
+.header{
+    top:5px;
+    left: 5px;
+    right: 5px;
+    height: 200px;
+    width:auto;
+}
+
+.mainbody{
+    top: 214px;
+    bottom: 64px;
+    left: 5px;
+    right: 5px;
+    width: auto;
+}
+
+.footer{
+    bottom: 0px;
+    height: 50px;
+    left: 0px;
+    right: 0px;
+    position: fixed;
+    width: auto;
+    background-color: #6c8a5b;
+    text-align: center;
 }
